@@ -1,0 +1,15 @@
+{
+    "title": "Widget Customization",
+    "baseURL": "https:\/\/www.abg.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759092",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "abg.com"
+    }
+}
